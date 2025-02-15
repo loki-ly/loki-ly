@@ -1,6 +1,6 @@
-# Hello! I am RAPHY 👋
-### Interested in Quantum Computing | ML-AI | QML
 
+<h1 align="center" class="heading-element" dir="auto">Hello! I am RAPHY 👋</h1>
+<h3 align="center" class="heading-element" dir="auto">Interested in Quantum Computing | ML-AI | QML</h3>
 
 👩🏻‍🎓 Studying Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd)<br/>
 
@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
 
-### Contact:
+### Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphyy/) <br/>
 
 
