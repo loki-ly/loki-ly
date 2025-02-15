@@ -1,4 +1,5 @@
-# Hello! I am MUKSHITUR RAHMAN RAPHY 👋
+# Hello! I am RAPHY 👋
+### Interested in Quantum Computing | ML-AI | QML
 
 
 👩🏻‍🎓 Studying Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd)<br/>
