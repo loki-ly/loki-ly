@@ -2,14 +2,14 @@
 
 
 👩🏻‍🎓 Studying Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd)<br/>
-<br/>
+
 
 ## 💻  Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphyy/) 
+### Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphyy/) <br/>
 
 
 
